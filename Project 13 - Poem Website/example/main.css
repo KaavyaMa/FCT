@@ -1,20 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 body {
-    background: rgba(248, 196, 228, 0.3);
-    text-align: center;
-  }
-  
-  h1 {
-    font-size: 50px;
-    color: rgb(211, 99, 255);
-  }
-  
-  p {
-    font-size: 30px;
-    font-family: 'Indie Flower';
-  }
-  
-  img {
-    width: 30%;
-  }
+  background: rgb(255, 255, 255);
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgba(0, 200, 100, 1);
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Ariel';
+}
+
+img {
+  width: 30%;
+}
