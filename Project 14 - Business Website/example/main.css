@@ -16,9 +16,9 @@ button {
   padding: 15px 30px;
 }
 
-#redButton {
+#orangeButton {
   background-color: white;
-  color: red;
+  color: rgb(255, 102, 0);
   font-size: 10px;
   margin: 5px;
 }
@@ -27,10 +27,10 @@ button {
   display: block;
 }
 
-#dogContent {
+#loraxContent {
   display: none;
 }
 
-#catContent {
+#loraxxContent {
   display: none;
 }
